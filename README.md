@@ -1,5 +1,12 @@
 # TMDB CLI
 
+> [!IMPORTANT]
+> This repository is intended for archival. The canonical current-state snapshot now lives in [Forge](https://github.com/fronzec/forge/tree/main/api-client-cli/tmdb/go-cobra).
+>
+> Forge contains a snapshot of the project's current state, not its original Git history. This repository preserves that history.
+>
+> Final source revision: [`61f9f0e479b26c993fef56063ac1b4202dfa976b`](https://github.com/fronzec/tmdbcli/commit/61f9f0e479b26c993fef56063ac1b4202dfa976b)
+
 A command-line interface for The Movie Database (TMDB) API. To solve https://roadmap.sh/projects/tmdb-cli.
 
 ## Features
